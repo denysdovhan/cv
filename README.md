@@ -54,7 +54,7 @@ Codeguida is an Ukrainian site about technologies. I worked on server–side Jav
 
 ### Freelance
 
-_2013 — 2015_
+_2012 — 2014_
 
 When I was learning at School, I built few sites as freelancer.
 
