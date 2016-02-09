@@ -1,0 +1,108 @@
+html {
+  height: 100%;
+  max-height: 100%;
+  font-size: 150%;
+}
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-family: Georgia, Cambria, 'Times New Roman', Times, serif;
+  line-height: 1.6em;
+  color: #444;
+}
+::selection {
+  color: #111;
+  background: #edff7e;
+  text-shadow: none;
+}
+h1,
+h2,
+h3,
+h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: bold;
+  line-height: 1.2;
+}
+h1 {
+  text-align: center;
+  margin-top: 0;
+  font-size: 3.157rem;
+}
+h2 {
+  font-size: 2.369rem;
+}
+h3 {
+  font-size: 1.777rem;
+}
+h4 {
+  font-size: 1.333rem;
+}
+small {
+  font-size: 0.75rem;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dashed #444;
+}
+a:hover {
+  border-bottom-style: solid;
+}
+.main-content {
+  display: block;
+  max-width: 30em;
+  margin: 5em auto;
+  color: #444;
+}
+@media (max-device-width: 480px) {
+  .main-content {
+    font-size: 0.8rem;
+  }
+}
+.main-content code {
+  font-size: 0.9rem;
+  padding: 0.2rem 0.5rem;
+  background: #eee;
+  border-radius: 3px;
+}
+.main-content pre {
+  background: #eee;
+  padding: 1em;
+  overflow-y: auto;
+  border-radius: 3px;
+}
+.main-content img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  border-radius: 3px;
+}
+.main-content blockquote {
+  margin: 0;
+  padding-left: 1rem;
+  border-left: 3px solid #eee;
+}
+.main-content blockquote p a:last-of-type {
+  font-style: italic;
+  font-size: 0.8rem;
+}
+.main-content blockquote p a:last-of-type::before {
+  content: '— ';
+}
+@media (max-device-width: 480px) and (orientation: landscape) {
+  .main-content {
+    font-size: 0.6rem;
+  }
+}
+.site-footer {
+  display: block;
+  max-width: 30em;
+  font-size: 0.6rem;
+  line-height: 1.6;
+  margin: 3rem auto 5rem;
+  text-align: center;
+}
+.site-footer a {
+  border-bottom: none;
+}
