@@ -7,7 +7,7 @@ My name is Denys Dovhan. I am:
 * studying at Chernivtsi National University
 * active opensource participator.
 
-I like to code, make sites, work in my own open source projects, play guitar and read books. I have skills to create sites using modern technologies.
+I like to coding, making sites, working in my own open source projects, playing guitar and reading books. I have skills to create sites using modern technologies.
 
 ## Contacts
 
@@ -46,7 +46,7 @@ Translating of workshoppers ([learnyounode][learnyounode] and [javascripting][ja
 
 JavaScript Developer, Writer, _2015 — 2016_
 
-Codeguida is an Ukrainian site about technologies. I worked on server–side JavaScript tools for building sources and tool for [building email letters][email-generator]. I wrote a lot of articles about CSS and JavaScript. Also I wrote weekly digest about Linux and Open Source. Here are few of my articles (on Ukrainian):
+Codeguida is an Ukrainian site about technologies. I worked on server–side JavaScript tools for building sources and application for [generating email letters][email-generator]. I wrote a lot of articles about CSS and JavaScript. Also I wrote weekly digest about Linux and Open Source. Here are few of my articles (on Ukrainian):
 
 * [Конспект по Bash (Compendium about Bash)](http://codeguida.com/post/270/)
 * [Керівництво по розробці з Git (Git Style Guide)](http://codeguida.com/post/277/)
@@ -56,14 +56,14 @@ Codeguida is an Ukrainian site about technologies. I worked on server–side Jav
 
 _2012 — 2014_
 
-When I was learning at School, I built few sites as freelancer.
+When I was studying at School, I created few sites as freelancer.
 
 * ["Milanshop"](http://milanshop.it/) — shopping tour company from Milan
 * ["Marina"](http://marinamebli.com.ua/) — furniture factory
 
 ### My own projects
 
-* [bash-handbook][bash-handbook] — simple hanbook for those who wanna learn Bash
+* [bash-handbook][bash-handbook] — simple handbook for those who wanna learn Bash
 * [learnyoubash][learnyoubash] — interactive workshop for learning Bash
 * [one-gnome-terminal][one-gnome-terminal] — Atom's One Dark and One Light theme for GNOME Terminal
 * [Textr CLI][textr-cli] — CLI for [Textr][textr] — modular typographic framework
