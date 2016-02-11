@@ -7,7 +7,7 @@ My name is Denys Dovhan. I am:
 * studying at Chernivtsi National University
 * active opensource participator.
 
-I like to coding, making sites, working in my own open source projects, playing guitar and reading books. I have skills to create sites using modern technologies.
+I like coding, making sites, working in my own open source projects, playing guitar and reading books. I have skills to create sites using modern technologies.
 
 ## Contacts
 
