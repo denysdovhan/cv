@@ -21,9 +21,10 @@ I like coding, making sites, working in my own open source projects, playing gui
 ## Skills
 
 * JavaScript, Node.js
+* React, Redux, Flux
 * Understanding and creating Grunt.js and gulpjs plugins
 * NPM, npm scripts, testing using Mocha
-* CSS, LESS, SASS, Stylus, PostCSS, BEM notation
+* CSS, LESS, SASS, Stylus, PostCSS, BEM notation, CSS Modules
 * HTML, Pug (old Jade), template engines
 * Linux, Bash scripts, Git
 
@@ -38,8 +39,9 @@ I like coding, making sites, working in my own open source projects, playing gui
 
 Founder of Chernivtsi chapter, _2015 — current time_
 
-Translating of workshoppers ([learnyounode][learnyounode] and [javascripting][javascripting]) on Ukrainian and creating my own ([learnyoubash][learnyoubash]). Hosting of events.
+Translating of workshoppers ([learnyounode] and [javascripting]) on Ukrainian and creating my own ([learnyoubash] and [how-to-markdown]). Hosting of events.
 
+* [NodeSchool Chernivtsi](http://nodeschool.io/chernivtsi)
 * [NodeSchool](http://nodeschool.io/)
 
 ### Volunteering for [Codeguida][codeguida]
@@ -63,12 +65,14 @@ When I was studying at School, I created few sites as freelancer.
 
 ### My own projects
 
-* [bash-handbook][bash-handbook] — simple handbook for those who wanna learn Bash
-* [learnyoubash][learnyoubash] — interactive workshop for learning Bash
-* [one-gnome-terminal][one-gnome-terminal] — Atom's One Dark and One Light theme for GNOME Terminal
+* [bash-handbook] — simple handbook for those who wanna learn Bash
+* [learnyoubash] — interactive workshop for learning Bash
+* [understandinges6ua] — Ukrainian translation of “Understanding ES6” by  Nicholas C. Zakas.
+* [how-to-markdown] — interactive workshop for learning Markdown
+* [one-gnome-terminal] — Atom's One Dark and One Light theme for GNOME Terminal
 * [Textr CLI][textr-cli] — CLI for [Textr][textr] — modular typographic framework
 * [Spaceship ZSH][spaceship] — An “Oh My ZSH!” theme for Astronauts.
-* [typographic-markdown][typographic-markdown] — a tool which fixes typographic problems in markdown files, skipping code blocks.
+* [typographic-markdown] — a tool which fixes typographic problems in markdown files, skipping code blocks.
 
 <!-- Links -->
 
@@ -78,6 +82,8 @@ When I was studying at School, I created few sites as freelancer.
 [learnyounode]: https://github.com/workshopper/learnyounode
 [javascripting]: https://github.com/sethvincent/javascripting
 [learnyoubash]: https://github.com/denysdovhan/learnyoubash
+[understandinges6ua]: http://understandinges6.denysdovhan.com/
+[how-to-markdown]: https://github.com/denysdovhan/how-to-markdown
 [bash-handbook]: https://github.com/denysdovhan/bash-handbook
 [one-gnome-terminal]: https://github.com/denysdovhan/one-gnome-terminal
 [textr]: https://github.com/A/textr
