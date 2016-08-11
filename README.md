@@ -26,7 +26,7 @@ I like coding, making sites, working in my own open source projects, playing gui
 * NPM, npm scripts, testing using Mocha
 * CSS, LESS, SASS, Stylus, PostCSS, BEM notation, CSS Modules
 * HTML, Pug (old Jade), template engines
-* Linux, Bash scripts, Git
+* Linux, Shell scripts (sh, bash, zsh), Git
 
 ## Education
 
@@ -34,6 +34,14 @@ I like coding, making sites, working in my own open source projects, playing gui
 * Secondary General Education School #24 for Grades I-III, Information Technology Class, _2003 — 2014_
 
 ## Experience
+
+### Volunteering for [Node.js Foundation][nodejs]
+
+Member of i18n working group, _2016 — current time_
+
+Translation and support of Ukrainian translation of Node.js' docs and website.
+
+* [Node.js](https://nodejs.org/uk/)
 
 ### Volunteering for [NodeSchool][nodeschool]
 
@@ -76,6 +84,7 @@ When I was studying at School, I created few sites as freelancer.
 
 <!-- Links -->
 
+[nodejs]: https://nodejs.org/
 [nodeschool]: http://nodeschool.io/
 [codeguida]: http://codeguida.com/
 [email-generator]: https://github.com/codeguida/email-generator
