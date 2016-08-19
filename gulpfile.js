@@ -1,17 +1,17 @@
-import { readFileSync as read } from 'fs';
-import gulp        from 'gulp';
-import data        from 'gulp-data';
-import jade        from 'gulp-jade';
-import stylus      from 'gulp-stylus';
-import deploy      from 'gulp-gh-pages';
-import remark      from 'remark';
-import html        from 'remark-html';
-import textr       from 'remark-textr';
-import typographic from 'typographic-base';
-import express     from 'express';
-import moment      from 'moment';
+const { readFileSync: read } = require('fs');
+const gulp        = require('gulp');
+const data        = require('gulp-data');
+const jade        = require('gulp-jade');
+const stylus      = require('gulp-stylus');
+const deploy      = require('gulp-gh-pages');
+const remark      = require('remark');
+const html        = require('remark-html');
+const textr       = require('remark-textr');
+const typographic = require('typographic-base');
+const express     = require('express');
+const moment      = require('moment');
 
-import pkg from './package';
+const pkg = require('./package');
 
 const render = () =>
   remark()
