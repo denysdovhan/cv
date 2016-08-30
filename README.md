@@ -7,7 +7,7 @@ My name is Denys Dovhan. I am:
 * studying at Chernivtsi National University
 * active opensource participator.
 
-I like coding, making sites, working in my own open source projects, playing guitar and reading books. I have skills to create sites using modern technologies.
+I like coding, making sites, working in my own open source projects, playing guitar and reading books. I have skills to create applications using modern technologies.
 
 ## Contacts
 
@@ -20,13 +20,15 @@ I like coding, making sites, working in my own open source projects, playing gui
 
 ## Skills
 
-* JavaScript, Node.js
+* JavaScript (ES6+), Node.js
 * React, Redux, Flux
+* Basic concepts of functional programming
 * Understanding and creating Grunt.js and gulpjs plugins
 * NPM, npm scripts, testing using Mocha
 * CSS, LESS, SASS, Stylus, PostCSS, BEM notation, CSS Modules
 * HTML, Pug (old Jade), template engines
 * Linux, Shell scripts (sh, bash, zsh), Git
+* Basic knowledge in PHP, Python, C
 
 ## Education
 
@@ -39,13 +41,13 @@ I like coding, making sites, working in my own open source projects, playing gui
 
 Member of i18n working group, _2016 — current time_
 
-Translation and support of Ukrainian translation of Node.js' docs and website.
+Translation and support of Ukrainian translation of Node.js' documentation and website.
 
 * [Node.js](https://nodejs.org/uk/)
 
 ### Volunteering for [NodeSchool][nodeschool]
 
-Founder of Chernivtsi chapter, _2015 — current time_
+Founder of Chernivtsi chapter, co-founder of Lviv chapter _2015 — current time_
 
 Translating of workshoppers ([learnyounode] and [javascripting]) on Ukrainian and creating my own ([learnyoubash] and [how-to-markdown]). Hosting of events.
 
