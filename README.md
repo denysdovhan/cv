@@ -13,10 +13,10 @@ I like coding, making sites, working in my own open source projects, playing gui
 
 * Phone: +38 095 110–03–92
 * Email: [email@denysdovhan.com](mailto:email@denysdovhan.com)
-* Blog: [denysdovhan.com](http://denysdovhan.com)
-* GitHub: [@denysdovhan](https://github.com/denysdovhan)
 * Twitter: [@denysdovhan](https://twitter.com/denysdovhan)
+* GitHub: [@denysdovhan](https://github.com/denysdovhan)
 * LinkedIn: [Denys Dovhan](https://linkedin.com/in/denysdovhan)
+* Personal blog: [denysdovhan.com](http://denysdovhan.com)
 
 ## Skills
 
