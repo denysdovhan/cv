@@ -20,15 +20,15 @@ I like coding, making sites, working in my own open source projects, playing gui
 
 ## Skills
 
-* JavaScript (ES6+), Node.js
+* JavaScript (ES2015+), Node.js
 * React, Redux, Flux
 * Basic concepts of functional programming
-* Understanding and creating Grunt.js and gulpjs plugins
-* NPM, npm scripts, testing using Mocha
+* Build systems Webpack, Gulp, Grunt, Brunch (creating plugins)
+* NPM, npm scripts, testing using Mocha, tape
 * CSS, LESS, SASS, Stylus, PostCSS, BEM notation, CSS Modules
 * HTML, Pug (old Jade), template engines
 * Linux, Shell scripts (sh, bash, zsh), Git
-* Basic knowledge in PHP, Python, C
+* Basic knowledge in Python, Ruby, C
 
 ## Education
 
