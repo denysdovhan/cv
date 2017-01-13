@@ -37,9 +37,33 @@ I like coding, making sites, working in my own open source projects, playing gui
 
 ## Experience
 
+### [Hell Yeah LLC][hellyeahllc]
+
+Software Consultant, _Dec 2016 — current time_
+
+Working at OSS team on Hell Yeah's projects, such as [Brunch].
+
+* [Hell Yeah](https://github.com/hellyeahllc) on GitHub
+* [Brunch][https://github.com/brunch] on GitHub
+
+### [ELOGIC]
+
+JavaScript developer, _Sep 2016 — Dec 2016_
+
+Rebuilding and optimization of complex graphics editor in browser (built with [fabric.js][fabricjs]). JavaScript consulting.
+
+### Organizing of [ChernivtsiJS][chernivtsijs]
+
+Founder, _Sep 2016 — current time_
+
+Founding of Chernivtsi JavaScript Community, organizing ChernivtsiJS meet-ups, moderating of community.
+
+* [ChernivtsiJS](https://www.facebook.com/chernivtsijs) on Facebook
+* [ChernivtsiJS](https://twitter.com/chernivtsijs) on Twitter 
+
 ### Volunteering for [Node.js Foundation][nodejs]
 
-Member of i18n working group, _2016 — current time_
+Member of i18n working group, _Jul 2016 — current time_
 
 Translation and support of Ukrainian translation of Node.js' documentation and website.
 
@@ -47,16 +71,16 @@ Translation and support of Ukrainian translation of Node.js' documentation and w
 
 ### Volunteering for [NodeSchool][nodeschool]
 
-Founder of Chernivtsi chapter, co-founder of Lviv chapter _2015 — current time_
+Chapter organizer, _Oct 2015 — current time_
 
-Translating of workshoppers ([learnyounode] and [javascripting]) on Ukrainian and creating my own ([learnyoubash] and [how-to-markdown]). Hosting of events.
+Founding of Chernivtsi chapter. Co-founding of Ternopil and Lviv chapters. Translating of workshoppers ([learnyounode] and [javascripting]) on Ukrainian and creating my own ([learnyoubash] and [how-to-markdown]). Hosting of events.
 
 * [NodeSchool Chernivtsi](http://nodeschool.io/chernivtsi)
 * [NodeSchool](http://nodeschool.io/)
 
 ### Volunteering for [Codeguida][codeguida]
 
-JavaScript Developer, Writer, _2015 — 2016_
+JavaScript developer, writer, _Jan 2015 — Jul 2016_
 
 Codeguida is an Ukrainian site about technologies. I worked on server–side JavaScript tools for building sources and application for [generating email letters][email-generator]. I wrote a lot of articles about CSS and JavaScript. Also I wrote weekly digest about Linux and Open Source. Here are few of my articles (on Ukrainian):
 
@@ -70,10 +94,7 @@ _2012 — 2014_
 
 When I was studying at School, I created few sites as freelancer.
 
-* ["Milanshop"](http://milanshop.it/) — shopping tour company from Milan
-* ["Marina"](http://marinamebli.com.ua/) — furniture factory
-
-### My own projects
+### My personal projects
 
 * [bash-handbook] — simple handbook for those who wanna learn Bash
 * [learnyoubash] — interactive workshop for learning Bash
@@ -86,16 +107,28 @@ When I was studying at School, I created few sites as freelancer.
 
 <!-- Links -->
 
+[hellyeahllc]: http://hellyeah.is/
+[brunch]: https://brunch.io
+
+[elogic]: https://elogic.co/
+[fabricjs]: http://fabricjs.com/
+
+[chernivtsijs]: http://chernivtsi.js.org
+
 [nodejs]: https://nodejs.org/
+
 [nodeschool]: http://nodeschool.io/
+
 [codeguida]: http://codeguida.com/
 [email-generator]: https://github.com/codeguida/email-generator
+
 [learnyounode]: https://github.com/workshopper/learnyounode
 [javascripting]: https://github.com/sethvincent/javascripting
 [learnyoubash]: https://github.com/denysdovhan/learnyoubash
+
+[bash-handbook]: https://github.com/denysdovhan/bash-handbook
 [understandinges6ua]: http://understandinges6.denysdovhan.com/
 [how-to-markdown]: https://github.com/denysdovhan/how-to-markdown
-[bash-handbook]: https://github.com/denysdovhan/bash-handbook
 [one-gnome-terminal]: https://github.com/denysdovhan/one-gnome-terminal
 [textr]: https://github.com/A/textr
 [textr-cli]: https://github.com/denysdovhan/textr-cli
