@@ -2,7 +2,7 @@
 
 My name is Denys Dovhan. I am:
 
-* 19 years old
+* 20 years old
 * living in [Chernivtsi, Ukraine](https://goo.gl/maps/Ra74V1Dyqbp)
 * studying at Chernivtsi National University
 * active opensource participator.
