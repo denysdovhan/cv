@@ -103,7 +103,20 @@ When I was studying at School, I created few sites as freelancer.
 * [one-gnome-terminal] — Atom's One Dark and One Light theme for GNOME Terminal
 * [Textr CLI][textr-cli] — CLI for [Textr][textr] — modular typographic framework
 * [Spaceship ZSH][spaceship] — An “Oh My ZSH!” theme for Astronauts.
-* [typographic-markdown] — a tool which fixes typographic problems in markdown files, skipping code blocks.
+
+## Talks
+
+### [Shells written in JavaScript](https://youtu.be/ijXfFu61XH0) 🇺🇸
+
+_KharkivJS #5, 5-6 Nov 2016_ — [**Slides**][javascript-shell]
+
+Explanation of JavaScript shells and existing implementations, such as cash, Vorpal, awkward, nshell, jssh, shjs.
+
+### Promises and thenables 🇺🇦
+
+_ChernivtsiJS, 14 Sep 2016_ — [**Slides**][promises-and-thenables]
+
+My researches of Promise/A+ specification. Explanation of how JavaScript Promises work by creating own implementation.
 
 <!-- Links -->
 
@@ -133,4 +146,6 @@ When I was studying at School, I created few sites as freelancer.
 [textr]: https://github.com/A/textr
 [textr-cli]: https://github.com/denysdovhan/textr-cli
 [spaceship]: https://github.com/denysdovhan/spaceship-zsh-theme
-[typographic-markdown]: https://github.com/denysdovhan/typographic-markdown
+
+[javascript-shells]: http://denysdovhan.com/slides-javascript-shells
+[promises-and-thenables]: http://denysdovhan.com/slides-promises
