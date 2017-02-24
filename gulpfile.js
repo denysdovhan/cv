@@ -17,7 +17,7 @@ const render = () =>
   remark()
     .use(textr, { plugins: [ typographic ], options: { locale: 'en-us' } })
     .use(html)
-    .process(read('README.md').toString());
+    .processSync(read('README.md').toString());
 
 gulp.task('styles', () =>
   gulp.src('styles/main.styl')
