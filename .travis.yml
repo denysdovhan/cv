@@ -1,6 +1,4 @@
 language: node_js
-node_js:
-- v6
 before_script:
 - git config --global user.email "email@denysdovhan.com"
 - git config --global user.name "Travis Builder"
