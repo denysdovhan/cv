@@ -1,5 +1,7 @@
 # Denys Dovhan's Resume
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/denysdovhan/cv.svg)](https://greenkeeper.io/)
+
 My name is Denys Dovhan. I am:
 
 * 20 years old
