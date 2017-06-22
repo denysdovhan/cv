@@ -5,6 +5,7 @@ My name is Denys Dovhan. I am:
 * 20 years old
 * living in [Chernivtsi, Ukraine](https://goo.gl/maps/Ra74V1Dyqbp)
 * studying at Chernivtsi National University
+* organizing [NodeSchool Chernivtsi][nodeschool-cv] and [ChernivtsiJS Conference][chernivtsijs]
 * active opensource participator.
 
 I like coding, making sites, working in my own open source projects, playing guitar and reading books. I have skills to create applications using modern technologies.
@@ -12,7 +13,7 @@ I like coding, making sites, working in my own open source projects, playing gui
 ## Contacts
 
 * Phone: +38 095 110–03–92
-* Email: [email@denysdovhan.com](mailto:email@denysdovhan.com)
+* Email: [denysdovhan@gmail.com](mailto:denysdovhan@gmail.com)
 * Twitter: [@denysdovhan](https://twitter.com/denysdovhan)
 * GitHub: [@denysdovhan](https://github.com/denysdovhan)
 * LinkedIn: [Denys Dovhan](https://linkedin.com/in/denysdovhan)
@@ -24,10 +25,10 @@ I like coding, making sites, working in my own open source projects, playing gui
 * React, Redux, Flux
 * Basic concepts of functional programming
 * Build systems Webpack, Gulp, Grunt, Brunch (creating plugins)
-* NPM, npm scripts, testing using Mocha, tape
+* Testing using Mocha, Chai, tape,
 * CSS, LESS, SASS, Stylus, PostCSS, BEM notation, CSS Modules
 * HTML, Pug (old Jade), template engines
-* Linux, Shell scripts (sh, bash, zsh), Git
+* Unix-based, Linux, Shell scripts (sh, bash, zsh, fish), Git
 * Basic knowledge in Python, Ruby, C
 
 ## Education
@@ -41,16 +42,16 @@ I like coding, making sites, working in my own open source projects, playing gui
 
 Software Consultant, _Dec 2016 — current time_
 
-Working at OSS team on Hell Yeah's projects, such as [Brunch].
+Working at OSS team on Hell Yeah's projects, such as [Brunch][brunch].
 
-* [Hell Yeah](https://github.com/hellyeahllc) on GitHub
-* [Brunch][https://github.com/brunch] on GitHub
+* [Hell Yeah][hellyeahllc] on GitHub
+* [Brunch][brunch] on GitHub
 
-### [ELOGIC]
+### [ELOGIC][elogic]
 
 JavaScript developer, _Sep 2016 — Dec 2016_
 
-Rebuilding and optimization of complex graphics editor in browser (built with [fabric.js][fabricjs]). JavaScript consulting.
+Rebuilding and optimization of complex graphics editor in browser (built with [fabric.js][fabricjs]). JavaScript consulting in other projects.
 
 ### Organizing of [ChernivtsiJS][chernivtsijs]
 
@@ -59,13 +60,13 @@ Founder, _Sep 2016 — current time_
 Founding of Chernivtsi JavaScript Community, organizing ChernivtsiJS meet-ups, moderating of community.
 
 * [ChernivtsiJS](https://www.facebook.com/chernivtsijs) on Facebook
-* [ChernivtsiJS](https://twitter.com/chernivtsijs) on Twitter 
+* [ChernivtsiJS](https://twitter.com/chernivtsijs) on Twitter
 
-### Volunteering for [Node.js Foundation][nodejs]
+### [Node.js Foundation][nodejs]
 
 Member of i18n working group, _Jul 2016 — current time_
 
-Translation and support of Ukrainian translation of Node.js' documentation and website.
+Translation and support of Ukrainian translation of documentation and website.
 
 * [Node.js](https://nodejs.org/uk/)
 
@@ -78,7 +79,7 @@ Founding of Chernivtsi chapter. Co-founding of Ternopil and Lviv chapters. Trans
 * [NodeSchool Chernivtsi](http://nodeschool.io/chernivtsi)
 * [NodeSchool](http://nodeschool.io/)
 
-### Volunteering for [Codeguida][codeguida]
+### [Codeguida][codeguida]
 
 JavaScript developer, writer, _Jan 2015 — Jul 2016_
 
@@ -96,25 +97,33 @@ When I was studying at School, I created few sites as freelancer.
 
 ### My personal projects
 
-* [bash-handbook] — simple handbook for those who wanna learn Bash
-* [learnyoubash] — interactive workshop for learning Bash
-* [understandinges6ua] — Ukrainian translation of “Understanding ES6” by  Nicholas C. Zakas.
-* [how-to-markdown] — interactive workshop for learning Markdown
-* [one-gnome-terminal] — Atom's One Dark and One Light theme for GNOME Terminal
-* [Textr CLI][textr-cli] — CLI for [Textr][textr] — modular typographic framework
-* [Spaceship ZSH][spaceship] — An “Oh My ZSH!” theme for Astronauts.
+* [bash-handbook] (2,9K★) — simple handbook for those who wanna learn Bash
+* [Spaceship ZSH][spaceship] (1K★) — An “Oh My ZSH!” theme for Astronauts.
+* [learnyoubash] (280★)— interactive workshop for learning Bash
+* [understandinges6ua] (100★) — Ukrainian translation of “Understanding ES6” by  Nicholas C. Zakas.
+* [how-to-markdown] (70★) — interactive workshop for learning Markdown
+* [one-gnome-terminal] (80★) — Atom's One Dark and One Light theme for GNOME Terminal
 
-## Talks
+## Public talks
 
 ### [Shells written in JavaScript](https://youtu.be/ijXfFu61XH0) 🇺🇸
 
-_KharkivJS #5, 5-6 Nov 2016_ — [**Slides**][javascript-shell]
+_KharkivJS #5, Kharkiv, 5-6 Nov 2016_ — [**Slides**][javascript-shells]
 
 Explanation of JavaScript shells and existing implementations, such as cash, Vorpal, awkward, nshell, jssh, shjs.
 
+* 🇺🇦 [TernopilJS Meetup #5](https://youtu.be/cOXkxmRLMZc), Ternopil
+* 🇷🇺 [The Rolling Scopes Conferenceb 2017](https://youtu.be/CGfnGczxKAI), Minsk
+
+### [Feel good with Brunch](https://youtu.be/FOP2TRCeZZI) 🇺🇦
+
+_Code'n'Coffee #27, Khmelnytsky, 23 Mar 2016_ — [**Slides**][feel-good-with-brunch]
+
+Talk about [Brunch][brunch] build system, its cons and pros, real-world use-cases.
+
 ### Promises and thenables 🇺🇦
 
-_ChernivtsiJS, 14 Sep 2016_ — [**Slides**][promises-and-thenables]
+_ChernivtsiJS, Chernivtsi, 14 Sep 2016_ — [**Slides**][promises-and-thenables]
 
 My researches of Promise/A+ specification. Explanation of how JavaScript Promises work by creating own implementation.
 
@@ -131,6 +140,7 @@ My researches of Promise/A+ specification. Explanation of how JavaScript Promise
 [nodejs]: https://nodejs.org/
 
 [nodeschool]: http://nodeschool.io/
+[nodeschool-cv]: http://nodeschool.io/chernivtsi
 
 [codeguida]: http://codeguida.com/
 [email-generator]: https://github.com/codeguida/email-generator
@@ -148,4 +158,5 @@ My researches of Promise/A+ specification. Explanation of how JavaScript Promise
 [spaceship]: https://github.com/denysdovhan/spaceship-zsh-theme
 
 [javascript-shells]: http://denysdovhan.com/slides-javascript-shells
+[feel-good-with-brunch]: https://denysdovhan.com/slides-feel-good-with-brunch/#/?_k=80fsas
 [promises-and-thenables]: http://denysdovhan.com/slides-promises
