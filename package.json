@@ -5,7 +5,7 @@
   "author": {
     "name": "Denys Dovhan",
     "email": "email@denysdovhan.com",
-    "url": "denysdovhan.com"
+    "url": "https://denysdovhan.com"
   },
   "main": "gulpfile.babel.js",
   "private": true,
