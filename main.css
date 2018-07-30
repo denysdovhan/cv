@@ -3,6 +3,11 @@ html {
   max-height: 100%;
   font-size: 150%;
 }
+@media print {
+  html {
+    font-size: initial;
+  }
+}
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -58,6 +63,11 @@ a:hover {
 @media (max-device-width: 480px) {
   .main-content {
     font-size: 0.8rem;
+  }
+}
+@media print {
+  .main-content {
+    max-width: initial;
   }
 }
 .main-content code {
