@@ -10,6 +10,7 @@
 //
 
 base-font-size       = 150%
+print-font-size      = initial
 base-font-family     = Georgia, Cambria, 'Times New Roman', Times, serif
 base-text-color      = #444
 base-lines-color     = #eee
@@ -33,6 +34,8 @@ html
   height 100%
   max-height 100%
   font-size base-font-size
+  @media print
+    font-size print-font-size
 
 body
   -webkit-font-smoothing antialiased
@@ -86,6 +89,8 @@ a
     font-size .8rem
     @media (orientation: landscape)
       font-size .6rem
+  @media print
+    max-width: initial
 
   code
     font-size .9rem
