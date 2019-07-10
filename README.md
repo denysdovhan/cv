@@ -80,15 +80,14 @@ Working on a marketplace and building an UI-components library for Facilities Ma
 
 - [Apiko][apiko] Website
 
-### [Hell Yeah LLC][hellyeahllc]
+### [Hell Yeah LLC][hydev]
 
-Software Consultant, _Dec 2016 — Dec 2018_
+Software Consultant, _Dec 2016 — Apr 2017_
 
-Hell Yeah LLC is a high-end development team that uses technology to help solve your business problems. I worked on clients and OSS projects, such as [Crossover Health][xo] and [Brunch][brunch].
+Hell Yeah LLC is a high-end development team that uses technology to help solve your business problems. I worked on clients and OSS projects, such as [Brunch][brunch].
 
-- [Hell Yeah][hellyeahllc] on GitHub
+- [Hell Yeah][hydev]
 - [Brunch][brunch] on GitHub
-- [Crossover Health][xo] Website
 
 ### [ELOGIC][elogic]
 
@@ -189,9 +188,8 @@ Explanation of JavaScript shells and existing implementations, such as cash, Vor
 [amenify]: https://www.amenify.com/
 [bizico]: https://bizico.com/
 [apiko]: https://apiko.com/
-[hellyeahllc]: http://hellyeah.is
+[hydev]: http://hy.dev
 [brunch]: https://brunch.io
-[xo]: http://crossoverhealth.com
 [elogic]: https://elogic.co
 [fabricjs]: http://fabricjs.com
 [chernivtsijs]: http://chernivtsi.js.org
