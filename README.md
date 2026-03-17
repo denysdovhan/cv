@@ -16,7 +16,7 @@ I like coding, making applications, working in my own open source projects, read
 
 - Phone: +38 095 110–03–92
 - Email: [denysdovhan@gmail.com](mailto:denysdovhan@gmail.com)
-- Twitter: [@denysdovhan](https://twitter.com/denysdovhan)
+- Twitter: [@denysdovhan](https://x.com/denysdovhan)
 - GitHub: [@denysdovhan][github]
 - LinkedIn: [Denys Dovhan](https://linkedin.com/in/denysdovhan)
 - Personal site: [denysdovhan.com](http://denysdovhan.com)
